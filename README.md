@@ -205,13 +205,13 @@ The app ensures persistence through SharedPreferences, storing:
 ## 📸 Screenshots
 
 ### 1. Splash Screen  
-<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="250" height="450"/>
+<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="300"/>
 
 ### 2. Register Page  
-<img src="smart_shop/img_2.jpg" alt="Register Page" width="250" height="450"/>
+<img src="smart_shop/img_2.jpg" alt="Register Page" width="300"/>
 
 ### 3. Login Page  
-<img src="smart_shop/img_3.jpg" alt="Login Page" width="250" height="450"/>
+<img src="smart_shop/img_3.jpg" alt="Login Page" width="300"/>
 
 ### 4. Home Screen  
 <img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="300"/>
@@ -240,7 +240,7 @@ The app ensures persistence through SharedPreferences, storing:
 <img src="smart_shop/img_15.jpg" alt="Profile" width="300"/>
 
 ### 11. Dark Mode  
-<img src="smart_shop/img_15.jpg" alt="Dark Mode" width="300"/>
+<img src="smart_shop/img_16.jpg" alt="Dark Mode" width="300"/>
 
 ---
 ## 🤝 Contributing
