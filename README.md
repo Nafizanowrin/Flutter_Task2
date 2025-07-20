@@ -204,43 +204,52 @@ The app ensures persistence through SharedPreferences, storing:
 
 ## 📸 Screenshots
 
-### 1. Splash Screen  
-<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="300"/>
+### 1. Splash & Register Page  
+<p float="left">
+  <img src="smart_shop/img_1.jpg" alt="Splash Screen" width="300"/>
+  <img src="smart_shop/img_2.jpg" alt="Register Page" width="300"/>
+</p>
 
-### 2. Register Page  
-<img src="smart_shop/img_2.jpg" alt="Register Page" width="300"/>
+### 2. Login & Sort/Filter  
+<p float="left">
+  <img src="smart_shop/img_3.jpg" alt="Login Page" width="300"/>
+  <img src="smart_shop/img_6.jpg" alt="Sort & Filter" width="300"/>
+</p>
 
-### 3. Login Page  
-<img src="smart_shop/img_3.jpg" alt="Login Page" width="300"/>
+### 3. Home Screen (Various States)  
+<p float="left">
+  <img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="300"/>
+  <img src="smart_shop/img_5.jpg" alt="Home Screen 2" width="300"/>
+</p>
 
-### 4. Home Screen  
-<img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="300"/>
-<img src="smart_shop/img_5.jpg" alt="Home Screen 2" width="300"/>
-<img src="smart_shop/img_7.jpg" alt="Home Screen 3" width="300"/>
-<img src="smart_shop/img_8.jpg" alt="Home Screen 4" width="300"/>
-<img src="smart_shop/img_9.jpg" alt="Home Screen 5" width="300"/>
-<img src="smart_shop/img_10.jpg" alt="Home Screen 6" width="300"/>
+<p float="left">
+  <img src="smart_shop/img_7.jpg" alt="Home Screen 3" width="300"/>
+  <img src="smart_shop/img_8.jpg" alt="Home Screen 4" width="300"/>
+</p>
 
-### 5. Sort & Filter Option  
-<img src="smart_shop/img_6.jpg" alt="Sort & Filter" width="300"/>
+<p float="left">
+  <img src="smart_shop/img_9.jpg" alt="Home Screen 5" width="300"/>
+  <img src="smart_shop/img_10.jpg" alt="Home Screen 6" width="300"/>
+</p>
 
-### 6. Shopping Cart  
-<img src="smart_shop/img_11.jpg" alt="Shopping Cart" width="300"/>
+### 4. Cart & Favorites  
+<p float="left">
+  <img src="smart_shop/img_11.jpg" alt="Cart Screen" width="300"/>
+  <img src="smart_shop/img_13.jpg" alt="Favorites" width="300"/>
+</p>
 
-### 7. Search Bar  
-<img src="smart_shop/img_12.jpg" alt="Search Bar" width="300"/>
+### 5. Profile & Drawer  
+<p float="left">
+  <img src="smart_shop/img_15.jpg" alt="Profile" width="300"/>
+  <img src="smart_shop/img_14.jpg" alt="Drawer" width="300"/>
+</p>
 
-### 8. Drawer  
-<img src="smart_shop/img_14.jpg" alt="Drawer" width="300"/>
+### 6. Search Bar & Dark Mode  
+<p float="left">
+  <img src="smart_shop/img_12.jpg" alt="Search Bar" width="300"/>
+  <img src="smart_shop/img_16.jpg" alt="Dark Mode" width="300"/>
+</p>
 
-### 9. Favorites  
-<img src="smart_shop/img_13.jpg" alt="Favorites" width="300"/>
-
-### 10. Profile  
-<img src="smart_shop/img_15.jpg" alt="Profile" width="300"/>
-
-### 11. Dark Mode  
-<img src="smart_shop/img_16.jpg" alt="Dark Mode" width="300"/>
 
 ---
 ## 🤝 Contributing
