@@ -182,14 +182,23 @@ The app ensures persistence through SharedPreferences, storing:
 
 ## 🌟 Extra Features
 ✅ Category Filtering – Browse products by category (e.g., electronics, fashion)
+
 ✅ Pull-to-Refresh – Refresh product listings with a swipe gesture
+
 ✅ Advanced Sorting – Sort products by price or rating
+
 ✅ Beautiful UI – Sleek, minimal design with proper spacing and color contrast
+
 ✅ Error Handling – Comprehensive feedback for network and API errors
+
 ✅ Loading Indicators – Smooth transitions and visual feedback during data loads
+
 ✅ Responsive Design – Scales seamlessly across different screen sizes
+
 ✅ Enhanced Dark Mode – Full black UI with readable white text and deep grey accents
+
 ✅ Modern Navbar – Includes menu actions, theme toggle, and a clean profile drawer
+
 ✅ Smart Product Cards – Designed with depth and contrast for readability and style
 
 
@@ -205,33 +214,33 @@ The app ensures persistence through SharedPreferences, storing:
 <img src="smart_shop/img_3.jpg" alt="Login Page" width="250" height="450"/>
 
 ### 4. Home Screen  
-<img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="250" height="450"/>
-<img src="smart_shop/img_5.jpg" alt="Home Screen 2" width="250" height="450"/>
-<img src="smart_shop/img_7.jpg" alt="Home Screen 3" width="250" height="450"/>
-<img src="smart_shop/img_8.jpg" alt="Home Screen 4" width="250" height="450"/>
-<img src="smart_shop/img_9.jpg" alt="Home Screen 5" width="250" height="450"/>
-<img src="smart_shop/img_10.jpg" alt="Home Screen 6" width="250" height="450"/>
+<img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="300"/>
+<img src="smart_shop/img_5.jpg" alt="Home Screen 2" width="300"/>
+<img src="smart_shop/img_7.jpg" alt="Home Screen 3" width="300"/>
+<img src="smart_shop/img_8.jpg" alt="Home Screen 4" width="300"/>
+<img src="smart_shop/img_9.jpg" alt="Home Screen 5" width="300"/>
+<img src="smart_shop/img_10.jpg" alt="Home Screen 6" width="300"/>
 
 ### 5. Sort & Filter Option  
-<img src="smart_shop/img_6.jpg" alt="Sort & Filter" width="250" height="450"/>
+<img src="smart_shop/img_6.jpg" alt="Sort & Filter" width="300"/>
 
 ### 6. Shopping Cart  
-<img src="smart_shop/img_11.jpg" alt="Shopping Cart" width="250" height="450"/>
+<img src="smart_shop/img_11.jpg" alt="Shopping Cart" width="300"/>
 
 ### 7. Search Bar  
-<img src="smart_shop/img_12.jpg" alt="Search Bar" width="250" height="450"/>
+<img src="smart_shop/img_12.jpg" alt="Search Bar" width="300"/>
 
 ### 8. Drawer  
-<img src="smart_shop/img_14.jpg" alt="Drawer" width="250" height="450"/>
+<img src="smart_shop/img_14.jpg" alt="Drawer" width="300"/>
 
 ### 9. Favorites  
-<img src="smart_shop/img_13.jpg" alt="Favorites" width="250" height="450"/>
+<img src="smart_shop/img_13.jpg" alt="Favorites" width="300"/>
 
 ### 10. Profile  
-<img src="smart_shop/img_15.jpg" alt="Profile" width="250" height="450"/>
+<img src="smart_shop/img_15.jpg" alt="Profile" width="300"/>
 
 ### 11. Dark Mode  
-<img src="smart_shop/img_15.jpg" alt="Dark Mode" width="250" height="450"/>
+<img src="smart_shop/img_15.jpg" alt="Dark Mode" width="300"/>
 
 ---
 ## 🤝 Contributing
