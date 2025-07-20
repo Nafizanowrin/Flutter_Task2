@@ -195,7 +195,18 @@ The app ensures persistence through SharedPreferences, storing:
 
 ## 📸 Screenshots
 
-## 1. Splash Screen
+### 1. Splash Screen  
+<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="300"/>
 
-![Splash Screen](smart_shop/img_1.jpg)
+### 2. Register Page  
+<img src="smart_shop/img_2.jpg" alt="Register Page" width="300"/>
+
+### 3. Login Page  
+<img src="smart_shop/img_3.jpg" alt="Login Page" width="300"/>
+
+### 4. Home Screen  
+<img src="smart_shop/img_4.jpg" alt="Home Screen" width="300"/>
+
+
+
 
