@@ -196,16 +196,68 @@ The app ensures persistence through SharedPreferences, storing:
 ## 📸 Screenshots
 
 ### 1. Splash Screen  
-<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="300"/>
+<img src="smart_shop/img_1.jpg" alt="Splash Screen" width="250" height="450"/>
 
 ### 2. Register Page  
-<img src="smart_shop/img_2.jpg" alt="Register Page" width="300"/>
+<img src="smart_shop/img_2.jpg" alt="Register Page" width="250" height="450"/>
 
 ### 3. Login Page  
-<img src="smart_shop/img_3.jpg" alt="Login Page" width="300"/>
+<img src="smart_shop/img_3.jpg" alt="Login Page" width="250" height="450"/>
 
 ### 4. Home Screen  
-<img src="smart_shop/img_4.jpg" alt="Home Screen" width="300"/>
+<img src="smart_shop/img_4.jpg" alt="Home Screen 1" width="250" height="450"/>
+<img src="smart_shop/img_5.jpg" alt="Home Screen 2" width="250" height="450"/>
+<img src="smart_shop/img_7.jpg" alt="Home Screen 3" width="250" height="450"/>
+<img src="smart_shop/img_8.jpg" alt="Home Screen 4" width="250" height="450"/>
+<img src="smart_shop/img_9.jpg" alt="Home Screen 5" width="250" height="450"/>
+<img src="smart_shop/img_10.jpg" alt="Home Screen 6" width="250" height="450"/>
+
+### 5. Sort & Filter Option  
+<img src="smart_shop/img_6.jpg" alt="Sort & Filter" width="250" height="450"/>
+
+### 6. Shopping Cart  
+<img src="smart_shop/img_11.jpg" alt="Shopping Cart" width="250" height="450"/>
+
+### 7. Search Bar  
+<img src="smart_shop/img_12.jpg" alt="Search Bar" width="250" height="450"/>
+
+### 8. Drawer  
+<img src="smart_shop/img_14.jpg" alt="Drawer" width="250" height="450"/>
+
+### 9. Favorites  
+<img src="smart_shop/img_13.jpg" alt="Favorites" width="250" height="450"/>
+
+### 10. Profile  
+<img src="smart_shop/img_15.jpg" alt="Profile" width="250" height="450"/>
+
+### 11. Dark Mode  
+<img src="smart_shop/img_15.jpg" alt="Dark Mode" width="250" height="450"/>
+
+---
+## 🤝 Contributing
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5.Create a Pull Request
+
+## 📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+## 🙏 Acknowledgments
+1. FakeStore API for providing product data
+2. Flutter team for the amazing framework
+3. Provider package for state management
+4. Material Design for UI guidelines
+
+
+
+
+
+
+
+
 
 
 
