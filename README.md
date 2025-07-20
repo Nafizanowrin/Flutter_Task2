@@ -243,7 +243,6 @@ The app ensures persistence through SharedPreferences, storing:
 
 ## 📄 License
 This project is licensed under the MIT License.
-See the LICENSE file for more details.
 
 ## 🙏 Acknowledgments
 1. FakeStore API for providing product data
