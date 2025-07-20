@@ -72,25 +72,25 @@ A Flutter-based shopping app prototype showcasing product listings, search/filte
 
 ## 🗂 Project Structure
 
-lib/
-├── main.dart                      # App entry point
-├── models/                        # Data models
-│   ├── product.dart               # Product model
-│   └── cart_item.dart             # Cart item model
-├── providers/                     # State management
-│   ├── auth_provider.dart         # Handles login & registration state
-│   ├── cart_provider.dart         # Manages cart operations
-│   ├── favorites_provider.dart    # Manages favorite items
-│   ├── product_provider.dart      # Fetches product data from API
-│   └── theme_provider.dart        # Theme toggling and persistence
-├── screens/                       # App screens/pages
-│   ├── splash_screen.dart         # Splash/loading screen
-│   ├── login_screen.dart          # User login and registration
-│   ├── home_screen.dart           # Main product listing page
-│   ├── cart_screen.dart           # Shopping cart page
-│   ├── favorites_screen.dart      # User’s favorite items
-│   └── profile_screen.dart        # Profile and app settings
-└── widgets/                       # Reusable UI components
+    lib/
+    ├── main.dart                      # App entry point
+    ├── models/                        # Data models
+    │   ├── product.dart               # Product model
+    │   └── cart_item.dart             # Cart item model
+    ├── providers/                     # State management
+    │   ├── auth_provider.dart         # Handles login & registration state
+    │   ├── cart_provider.dart         # Manages cart operations
+    │   ├── favorites_provider.dart    # Manages favorite items
+    │   ├── product_provider.dart      # Fetches product data from API
+    │   └── theme_provider.dart        # Theme toggling and persistence
+    ├── screens/                       # App screens/pages
+    │   ├── splash_screen.dart         # Splash/loading screen
+    │   ├── login_screen.dart          # User login and registration
+    │   ├── home_screen.dart           # Main product listing page
+    │   ├── cart_screen.dart           # Shopping cart page
+    │   ├── favorites_screen.dart      # User’s favorite items
+    │   └── profile_screen.dart        # Profile and app settings
+    └── widgets/                       # Reusable UI components
     ├── product_card.dart          # Displays product info in a card layout
     └── sort_filter_bottom_sheet.dart  # UI for sorting/filtering options
 
@@ -197,5 +197,5 @@ The app ensures persistence through SharedPreferences, storing:
 
 ## 1. Splash Screen
 
-    ![Splash Screen](smart_shop/img_1.jpg)
+![Splash Screen](smart_shop/img_1.jpg)
 
