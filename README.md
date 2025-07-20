@@ -122,63 +122,64 @@ To build and run this project, ensure you have the following installed:
    ```bash
     flutter run
 
-🔐 Demo Credentials
-You can log in using the following test credentials:
+## 🔐 Demo Credentials
+   You can log in using the following test credentials:
 
-Email: nowrin@gmail.com
+   Email: nowrin@gmail.com
 
-Password: nowrin
+   Password: nowrin
 
-🔧 Key Features Implementation
+
+## 🔧 Key Features Implementation
 🧩 State Management with Provider
-The app uses the Provider package for clean and efficient state management across multiple modules:
+   The app uses the Provider package for clean and efficient state management across multiple modules:
 
-User Authentication
+   - User Authentication
 
-Shopping Cart Functionality
+   - Shopping Cart Functionality
 
-Favorites List
+   - Favorites List
 
-Product Data Handling
+   - Product Data Handling
 
-Theme Switching
+   - Theme Switching
 
-💾 SharedPreferences Integration
+## 💾 SharedPreferences Integration
 The app ensures persistence through SharedPreferences, storing:
 
-Login state
+   - Login state
 
-Theme preference (dark/light)
+   - Theme preference (dark/light)
 
-Favorite items
+   - Favorite items
 
-User email for display in Profile
+   - User email for display in Profile
 
-🌐 RESTful API Integration
-Product data is fetched from the FakeStore API with robust handling:
+## 🌐 RESTful API Integration
+   Product data is fetched from the FakeStore API with robust handling:
 
-Dynamic data loading on app start
+   - Dynamic data loading on app start
 
-Pull-to-refresh to reload product list
+   - Pull-to-refresh to reload product list
 
-Error handling for failed requests
+   - Error handling for failed requests
 
-Category filtering and sorting support
+   - Category filtering and sorting support
 
-🎨 Modern UI/UX Design
-Built with Material Design 3, the UI offers:
+## 🎨 Modern UI/UX Design
+   Built with Material Design 3, the UI offers:
 
-Clean, intuitive layouts
+   - Clean, intuitive layouts
 
-Responsive product grids
+   - Responsive product grids
 
-Animated transitions
+   - Animated transitions
 
-A polished dark mode with high contrast
+   - A polished dark mode with high contrast
 
-Consistent theming across screens
+   - Consistent theming across screens
 
-🌟 Extra Features
+## 🌟 Extra Features
 ✅ Category Filtering – Browse products by category (e.g., electronics, fashion)
 ✅ Pull-to-Refresh – Refresh product listings with a swipe gesture
 ✅ Advanced Sorting – Sort products by price or rating
@@ -191,7 +192,8 @@ Consistent theming across screens
 ✅ Smart Product Cards – Designed with depth and contrast for readability and style
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 1. Splash Screen
-    ![Splash Screen](img_1.png)
+    ![Splash Screen](smart_shop/img_1.jpg)
+
