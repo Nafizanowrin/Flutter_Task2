@@ -1,16 +1,38 @@
-# smart_shop
+# Flutter_Task2 – Smart Shop 🛍️
 
-A new Flutter project.
+A Flutter-based shopping app prototype showcasing product listings, search/filter capabilities, and a clean, user-friendly interface.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- **Product catalogue**: Browse a list/grid of items with images, names, prices.
+- **Search & filter**: Quickly find items by name/category.
+- **Product details**: View individual item details including price, description, and image.
+- **Responsive UI**: Adapts to different screen sizes.
+- Easily extensible to include cart, checkout, authentication, etc.
 
-A few resources to get you started if this is your first Flutter project:
+## 💾 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (Dart)
+- Core packages:
+  - `flutter/material.dart` – UI elements
+  - `provider` – State management
+  - `http` – API/data fetching (if applicable)
+- Optional:
+  - `cached_network_image` – Efficient image loading & caching
+  - `flutter_bloc` or `riverpod` – Alternative state-management solutions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Project Structure
+
+lib/
+├── main.dart # Entry point
+├── models/ # Data models (e.g. Product)
+├── providers/ # State management (e.g. ProductProvider)
+├── screens/ # UI pages
+│ ├── home_screen.dart
+│ └── product_detail_screen.dart
+├── widgets/ # Reusable UI components
+│ ├── product_item.dart
+│ └── product_grid.dart
+assets/
+└── images/ # Local image files (optional)
+pubspec.yaml # Project dependencies & assets
